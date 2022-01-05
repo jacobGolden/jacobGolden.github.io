@@ -4,11 +4,4 @@ This is my personal website! I'm Jacob, a network and information security enthu
 
 TO DO:
 
-index.html
-
-        
-blog.html
-    - scrollable blog posts
-    - separate post for each topic
-    - clickable posts
-    - newsletter email form
+blog.html: scrollable blog posts,separate post for each topic, clickable posts, newsletter email form
